@@ -45,6 +45,6 @@ changes : Added function to read periodic elements
 
 Generated JSON and XML sample files ->
 
-PeriodicElement.json
+\impl\src\test\resources\PeriodicElement.json
 
-PeriodicElement.xml
+\impl\src\test\resources\PeriodicElement.xml
