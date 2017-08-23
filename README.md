@@ -43,3 +43,8 @@ changes : Added dependencies for build
 
 changes : Added function to read periodic elements
 
+Generated JSON and XML sample files ->
+
+PeriodicElement.json
+
+PeriodicElement.xml
