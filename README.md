@@ -48,3 +48,5 @@ Generated JSON and XML sample files ->
 \impl\src\test\resources\PeriodicElement.json
 
 \impl\src\test\resources\PeriodicElement.xml
+
+Copy of used .m2/settings.xml is also added for reference.
